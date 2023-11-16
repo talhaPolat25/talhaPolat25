@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhapolat25&show_icons=true&locale=en" alt="talhapolat25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhapolat25&" alt="talhapolat25" /></p>
+
+![snake gif](https://github.com/talhaPolat25/talhaPolat25/blob/output/github-contribution-grid-snake.gif)
